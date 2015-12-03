@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Name        : Card.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Author      : Anthony Varghese
+ Version     : 1.0
+ Copyright   : All rights reserved
+ Description : Simple Differential Equations
  ============================================================================
  */
 
@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("Simple differential equations!"); /* prints a message */
 	return EXIT_SUCCESS;
 }
